@@ -1,4 +1,3 @@
-Campo Minado em Java
 Este é um projeto simples de Campo Minado desenvolvido em Java. Foi feito como parte do aprendizado sobre programação e lógica de jogos. O objetivo é criar uma versão funcional do jogo tradicional "Campo Minado" utilizando conceitos básicos de Java.
 
 Como Jogar:
